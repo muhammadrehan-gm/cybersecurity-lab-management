@@ -34,4 +34,20 @@ Open a terminal in the project directory and run the GCC compiler:
 
 ```bash
 gcc cyber_lab.c -o cyber_lab
+```
+**Or**\
+Open this file in VS Code then Compile it by Clicking on Run Button
+
+## Output sample
+   **CYBERSECURITY LAB REPORT** 
+
+Lab Name            : Cyber Security Lab\
+Computers           : 30\
+Network Devices     : 8\
+Security Tools      : 12\
+Computer Cost       : 3000000\
+Network Device Cost : 400000\
+Software Cost       : 500000\
+Total Lab Investment: 3900000
+
 
