@@ -1,6 +1,6 @@
 # Lab Management System
 **student Name:** Muhammad Rehan\
-**Student-ID:** 26k-2001\
+**Student-ID:** 26k-2001
 ## Project Description
 A C-based management prototype developed for a university cybersecurity laboratory to track and calculate infrastructure costs. And give the overall lab investment into a structured summary report.
 
