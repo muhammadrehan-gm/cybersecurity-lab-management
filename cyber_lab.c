@@ -39,16 +39,20 @@ int main()
     Network_cost = Number_of_network_devices * cost_per_network_device;
     Total_lab_investment = Computer_cost + Network_cost + Annual_security_software_cost;
 
-    printf("\n\n\n CYBERSECURITY LAB REPORT\n\n");
+    printf("\n\n\n======================================\n");
+    printf("        CYBERSECURITY LAB REPORT        ");
+    printf("\n======================================\n\n");
     printf("Lab Name: %s\n", Lab_name);
     printf("Compters: %d\n", Number_of_computers);
     printf("Network Devices: %d\n", Number_of_network_devices);
     printf("Security Tools: %d\n\n", Number_of_security_tools);
     printf("Computer Cost: %d\n", Computer_cost);
     printf("Network Device Cost: %d\n", Network_cost);
-    printf("Software cost: %d\n\n\n", Annual_security_software_cost);
+    printf("Software cost: %d\n", Annual_security_software_cost);
 
-    printf("Total Lab Investment: %d\n\n\n", Total_lab_investment);
+    printf("\n-----------------------------------\n");
+    printf("Total Lab Investment: %d", Total_lab_investment);
+    printf("\n-----------------------------------\n\n");
 
     return 0;
 }
